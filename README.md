@@ -47,8 +47,10 @@ The HTML structure renders a form to collect the user's name and displays a joke
 
 1. **Submit name**
 
-![Header of the page](public/images/screenshots/screen1.png)
+![image](https://github.com/user-attachments/assets/7a6b3d37-9aae-4ab0-beb9-8b3610869095)
+
 
 2. **Get joke**
 
-![Book entries listing](public/images/screenshots/screen2.png)
+![image](https://github.com/user-attachments/assets/668d94bd-5cdd-4091-be7e-fa823cd318f8)
+
