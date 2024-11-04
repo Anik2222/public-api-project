@@ -1,5 +1,5 @@
 # Jokes On You! - A Public API Project
-This is a capstone project for a Udemy course called The Complete Web Development Bootcamp 2023 (by The App Brewery).
+This is a capstone project for a Udemy course called The Complete Web Development Bootcamp 2024 (by The App Brewery).
 
 ## Project Instructions
 In this project, students are expected to build a website using the Express/Node.js platform, with the Axios HTTP client, 
